@@ -29,7 +29,11 @@
 
 I'm a software developer and founder. I mainly work on web applications, tools, Minecraft projects, and infrastructure.
 
-Most of what I build is private, but I'm starting to open some of my projects up to the community.
+For the past two years, I've been spending most of my time building an advanced hosting and server management panel. The idea is to bring together the things I need from platforms like WHMCS, cPanel, Pterodactyl, PanelAlpha, Virtualizor, and more, along with a lot of tools of my own.
+
+It's a long-term project, and I'm currently aiming to release the first version in 2028.
+
+Most of my other work is private too, but I'm starting to open some of my projects up to the community.
 
 ---
 
